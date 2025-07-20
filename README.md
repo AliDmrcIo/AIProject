@@ -38,8 +38,8 @@ ________________________________________
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in yarısı fikir üretme ve araştırmaya ayrıldığından ilk sprint puanı 70 olarak kararlaştırılmıştır.
 - **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşabilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
 - https://trello.com/invite/b/686513bcb351ad746fd6d6d6/ATTI97db9bd0468b087cddff5c9487e42ab6388E9A69/team103-1st-sprint
- ![image](https://github.com/AliDmrcIo/AIProject/blob/main/WhatsApp%20Image%202025-07-09%20at%2010.37.47.jpeg?raw=true)
- ![image](https://github.com/AliDmrcIo/AIProject/blob/main/WhatsApp%20Image%202025-07-09%20at%2010.37.48.jpeg?raw=true)
+![image](https://github.com/AliDmrcIo/AIProject/blob/main/WhatsApp%20Image%202025-07-09%20at%2010.37.47.jpeg?raw=true)
+![image](https://github.com/AliDmrcIo/AIProject/blob/main/WhatsApp%20Image%202025-07-09%20at%2010.37.48.jpeg?raw=true)
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/AliDmrcIo/AIProject/blob/1e4bcf1c18cdb2e1a55a546df264506aee7ffff5/1st.sprint.ss.jpg)
 - **Sprint Review**:
@@ -70,9 +70,9 @@ Genel olarak ilk haftayı ürün bulma ve araştırma olarak geçirdik tüm ekip
 - **Puan tamamlama mantığı**:  Projenin toplam puanı 300 olarak belirlenmiştir. İlk sprintte fikir üretme ve araştırma yapıldığından dolayı daha az puan hedeflenmişti. Bu sprintte ürün fikri değişti ve teknik mimarisi oluşturulmaya başlandığı ve arayüz kısmına da geçildiği için 100 puan hedefi belirlenmiştir.
 - **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşabilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
 - https://trello.com/b/Eje6mb0v/team103-2nd-sprint
- <img width="1440" height="669" alt="Image" src="https://github.com/user-attachments/assets/22a61eea-6b49-4793-af17-deb08487dd3d" />
+![image](https://github.com/YZTA/AIProject/blob/main/Ekran%20Resmi%202025-07-20%2023.55.40.png?raw=true)
 - **Sprint board update**: Sprint board screenshotları: 
-![Image](https://github.com/user-attachments/assets/870e8f1d-af5d-4fcc-85c5-7603e8421f52)
+![image](https://github.com/YZTA/AIProject/blob/main/WhatsApp%20Image%202025-07-21%20at%2000.03.03.jpeg?raw=true)
 - **Sprint Review**:
 * Ürün fikri tamamen değiştirilip netleştirildi.
 * Kullanıcı senaryoları bu fikre göre güncellendi.
@@ -89,4 +89,3 @@ Genel olarak ilk haftayı ürün bulma ve araştırma olarak geçirdik tüm ekip
 - **2.Sprint Notu**: 
 Bu sprintte artık ürün fikrimiz netleşti ve ekip olarak teknik geliştirmelere odaklanmaya başladık. Tüm ekip arkadaşlarım görevlerini zamanında teslim etmeye özen gösterdi. Backend tarafında ilk modeli geliştirip test ettik. UI tasarımı için temel çizimler yapıldı ve kullanıcı senaryolarına göre sayfa planlaması yapıldı. Üçüncü yani son sprintte ürünü tamamlamaya odaklanacağız.
 ----------------------------------------------------------------------------
-
